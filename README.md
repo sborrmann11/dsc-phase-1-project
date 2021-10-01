@@ -1,4 +1,4 @@
-![microsoft logo](microsoft-logo.png)
+![microsoft logo](images/microsoft-logo.png)
 
 # Overview
 
@@ -21,17 +21,16 @@ Data combined from two different sources via the Rotten Tomatoes database shows 
 
 
 
-![Average Box office dollars](dollars.png
+![Average Box office dollars](images/avvboxoffice2.png
 )
 
 Now that we understand that higher ratings yield better box office results, we find that that the the top four genres with the highest average ratings are Biography, Documentary, History and Music. 
 
-![Average Box office dollars](movie_genre.png
-)
+![Average Box office dollars](images/genres_rotated.png)
 
 Finally, data pulled from The Movie Database finds that there are original language movies that recieve higher average ratings. While this should be investigated further, it's advisable that Microsoft does not being by producing movies in Russian Language. 
 
-![Average Box office dollars](languages.png
+![Average Box office dollars](images/languages.png
 )
 
 # Conclusions
@@ -40,16 +39,13 @@ Finally, data pulled from The Movie Database finds that there are original langu
  - Consider running campaigns to get more viewers to leave reviews
  - Start by producing movies that fall into the four highly rated genres surfaced in this report
  - Microsoft should avoid producing movies in Russian while ramping up the production company
- 
-Next Steps:
+
+
+
+# Next Steps
 
  - Dive deeper into movies that are produced in Japanese; why have they generated such high ratings?
- - Explore data to surface experts that have produced highly rated movies in key highly rated genres and bring them in to your network 
+ - Explore data to surface experts that have produced highly rated movies in key highly rated genres and bring them in to your network. Working with experts should yield more press, better movies and thusly, higher revenues
  - Consider allocating budget from other business units to engage with a consulting company to advise in the process of setting up a production company
 
 
-
-
-```python
-
-```
